@@ -1,0 +1,24 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vk-io/hear": "^1.1.1",
+    "@vk-io/session": "^2.2.1",
+    "async": "^3.2.4",
+    "axios": "^1.5.1",
+    "express": "^4.18.2",
+    "mongodb": "^6.1.0",
+    "mongoose": "^7.5.2",
+    "node-vk-bot-api": "^3.5.0",
+    "node-vk-sdk": "^1.1.7",
+    "vk-io": "^4.8.3",
+    "vk-node-sdk": "^0.1.8"
+  }
+}
